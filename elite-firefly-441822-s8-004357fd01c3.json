@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "elite-firefly-441822-s8",
+  "private_key_id": "004357fd01c38e442a523d2dfadd1a18e9c8ee08",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDgrGv3Ss9zi6hf\ni8STkaGgWf1tmr7Dhl01OXJcmzw/aY5Jqv6XAnkV8zaRRvwuCvqEMWoBG6SviW4W\njFrGf1BCMTns9PKjSqaqfTWKRQI3h4gjIdKVRVR/Ston2NT/RwpKERBI0PQ4xUwK\nuk5R7mQdO8/SZmRZsntYjLvNuxxNdvDERKi1mZ5DAe0rCjeYkCwjjPNjBASFi9lQ\n5KJaGheKYFlvCQ9ovGidWzx95V6nrI5eeev1PVHVB5TWsc98qsJp4hnJWtV6ABrx\nx37hkc1rbFkxwut1+6Q6RDkQuYPUHs376cYkN4xVe3yp3E0BcoLXlsIe9rgSF6HZ\nZKCDP1QdAgMBAAECggEAAWmxM+Xj0MkuNpDKKpUbEgm5gHfkj3k2HVLinyGJqxof\nJSYB0Uv+aBaKn3jsRKY5zXu3U6kWKCFmUbyJSrZgW7zeu5/CC9K5CpbxwpBM8IJY\nXboeTCLc3ary2pbjPmIE5Auk3o2wgRu0XlMywOy9D273IlzJ2Mz/2T1RLT8nvQUI\nY2v0ODmHfsvr+zD5KKaLeIS+ndfRtUfWO4IdHfQWqfZ9+pNJ4Bpbbft97vZOSqkO\n1LB4X2ugEUyTeMBUFlbVRTVkDCECeOKM3Yk7Ob58B2yxb3XBHaD4yxoAAf0nQeyh\nmEGnWKhPyKc+eB/ul4e/m3lNrMlUMMfE2WRNd65VJwKBgQDyYAxQuwdef949pofo\nas1RT2WZ5IEtRMvVh3Tu7BVOMvgHKUj9Tir68Z+iMjU0OXU/FmgqCwYujD2eUOHF\nuzz5QMo/eFlfXd4r4I0sS1sQXYzTEMNUpYZCUUTkKpddIAK0ieLYs8JwpDCsTROo\ntL9dh6MSdqGFC+XEPWjd7UnmYwKBgQDtTaJQWEUZfw71B3nvqUH90Oz08BAcv/IX\nRAQjhQMaZ+jSz7xRGrAtxINY/5ul0lEd0H4N8um09a6rrRrIFYrgwBjPQuEKXnHx\naAQA+fy4WTHwKSmnmcyZzcWBymofRTWIQT/ZhK9oUxOdgi8XXWjJAw1TdmJfgfJS\nreoWORejfwKBgQC6uSYjt8KYmdfkFPyVIFqm7ozufyzJbDvAeAes3TIYuYl9MuAp\nTWQtSaJauWVlo3JhNOjwoueTSrVZ1yPoSjRSLgjh1ty7bLxxfyAjZLZ2KCwKmtpw\nxshlJOj3ApzzwGp1Hdkma247izJ4OzUO/piC/LCz07LhpeXQRiMY/eq10wKBgQDi\n3E4pG0nsBwEIlP4odRpmiR6PRxVQNtw9C8QdJOMDkoUNTJWOv8Hf7zdWlP5692ae\n5xwrP6fXXOyAqTuqPpYHKP5O3nP/kqzBiZwSRusoXfUU0HVHCgyEmSiRXS44+NQl\nj6N30pZSWOGuua9FWgJ78NQDj3CaN8Ou8R6R4kDMBwKBgCBWG+YnrBzbvoBfFLms\noRpp4vp8p551pXv8DUADDe35OiAicd6E5MG6dU5N96X63bHd8cT+MhWwx61lx3ax\nQz/krlTvuztBXowgzjodUR+ceYyUD2U2pBWhsmqbzaAsyviRwMZ2RtcMLE3Sh+BV\nKg6Ti0Cs3WjGcyJESpJ0d0Ax\n-----END PRIVATE KEY-----\n",
+  "client_email": "data-storage-access@elite-firefly-441822-s8.iam.gserviceaccount.com",
+  "client_id": "109339302528991278084",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/data-storage-access%40elite-firefly-441822-s8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
